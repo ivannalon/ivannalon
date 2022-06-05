@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivannalon
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently learning Reactjs, TypeScript
 
 <!---
 ivannalon/ivannalon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
